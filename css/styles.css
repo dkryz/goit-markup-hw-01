@@ -1,0 +1,55 @@
+body {
+  background-color: #fff;
+  color: rgba(117, 117, 117, 1);
+}
+
+.logo {
+  color: #2196f3;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+/*header navigation*/
+
+.menu-link {
+    font-family: 'Roboto', sans-serif;
+    font style: medium
+    font size: 14px
+    line height: 1.14
+    letter spacing: 2%
+    cursor: pointer;
+}
+
+.menu-link {
+    color: #757575;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color:#2196f3 ;
+}
+
+.contact-nav a {
+    font-family: 'Roboto', sans-serif;
+    font style: medium
+    font size: 14px
+    line height: 1.14
+    letter spacing: 2%
+    cursor: pointer;
+}
+
+.contact-nav a:hover,
+.contact-nav a:focus {
+    color:#2196f3 ;
+}
+
+.contact-nav a {
+    color: #757575;
+}
+
